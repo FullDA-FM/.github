@@ -5,3 +5,10 @@ The cooling effects of cities due to corridor winds from the surrounding country
 In the project “Full Domain Analysis for Fluid Dynamics” we are working on algorithms that generate a variety of possible designs to support architects, municipalities and other stakeholders (see figure 2). Design decisions should show as early as possible how the airflow
 could behave with a wide variety of design solutions. In the project, we use efficient divergent optimization methods to find the broadest possible
 overview of design solutions. Computer simulations of flows (Computational Fluid Dynamics - CFD) play a crucial role here. For the analysis of the results we also deal with state-of-the-art visualization methods.
+
+Quick overview:
+* We generate many different geometries for building designs using evolutionary Quality Diversity algorithms
+* The geometries are optimized to reduce wind blockage
+* Optimization is performed making use of computational fluid dynamics
+* Since it is infeasible to simulate all steps in the design process, we use efficient statistical models to reduce the number of necessary CFD simulations
+* Through state-of-the-art visualization methods we allow comparison of the flows around these different building designs.
