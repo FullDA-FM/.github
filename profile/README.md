@@ -12,3 +12,6 @@ Quick overview:
 * Optimization is performed making use of computational fluid dynamics
 * Since it is infeasible to simulate all steps in the design process, we use efficient statistical models to reduce the number of necessary CFD simulations
 * Through state-of-the-art visualization methods we allow comparison of the flows around these different building designs.
+
+# Terms
+Phenotype: Central object of communication between optimization, cfd and visualization. A grid-like structure that contains building heights per grid cell. Resolution of approximately 100x100 cells in the grid.
