@@ -19,9 +19,9 @@ Phenotype: Central object of communication between optimization, cfd and visuali
 # Current Status
 
 ## Optimization
-![RANS/SimpleFoam simulation run](img/archive.png | width=300)
+<img src="img/archive.png" width="300">
 
 ## Visualization
 
 ## CFD
-![RANS/SimpleFoam simulation run](img/openfoam-randomdesign.jpeg | width=300)
+<img src="img/openfoam-randomdesign.jpeg" width="300">
