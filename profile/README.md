@@ -15,3 +15,11 @@ Quick overview:
 
 # Terms
 Phenotype: Central object of communication between optimization, cfd and visualization. A grid-like structure that contains building heights per grid cell. Resolution of approximately 100x100 cells in the grid.
+
+# Current Status
+
+## Optimization
+
+## CFD
+
+## Visualization
