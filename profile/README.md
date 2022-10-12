@@ -19,7 +19,9 @@ Phenotype: Central object of communication between optimization, cfd and visuali
 # Current Status
 
 ## Optimization
-
-## CFD
+<img src="img/archive.png" width="300">
 
 ## Visualization
+
+## CFD
+<img src="img/openfoam-randomdesign.jpeg" width="300">
