@@ -18,10 +18,13 @@ Phenotype: Central object of communication between optimization, cfd and visuali
 
 # Current Status
 
+## System integration
+
+![FullDA-FM-system-integration](https://user-images.githubusercontent.com/1055659/223721970-df0fd141-8b94-43d7-8f73-eef035681c74.png)
+
 ## Optimization
 <img src="https://github.com/FullDA-FM/.github/blob/main/profile/img/archive.png?raw=true" width="600">
 
 ## Visualization
-
 ## CFD
 <img src="https://github.com/FullDA-FM/.github/blob/main/profile/img/openfoam-randomdesign.jpeg?raw=true" width="600">
